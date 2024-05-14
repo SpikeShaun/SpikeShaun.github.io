@@ -1,6 +1,6 @@
 ---
 layout: default
-title: My Second Post
+title: My first Post
 ---
 
-This is my second post on my Jekyll blog!
+This is my first post on my Jekyll blog!
