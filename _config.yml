@@ -1,7 +1,7 @@
 # Site settings
 title: Your Personal Blog
 baseurl:
-url: "https://SpikeShaun.github.io/"
+url: "https://spikeshaun.github.io/spikeshaun"
 
 # Build settings
 theme: jekyll-theme-minimal
